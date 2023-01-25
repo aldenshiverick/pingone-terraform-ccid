@@ -38,6 +38,7 @@ The repo will be created in your Github account.
 ```
 cd ~/projects
 mkdir -p terraform
+cd terraform
 git clone <repo-url>
 ```
 
